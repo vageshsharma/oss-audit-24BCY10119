@@ -1,6 +1,6 @@
 # OSS Audit Project – Apache HTTP Server
 
-## 📌 Student Details
+  Student Details
 
 * **Name:** Vagesh Sharma
 * **Registration Number:** 24BCY10119
@@ -8,13 +8,13 @@
 
 ---
 
-## 🌐 Project Title
+  Project Title
 
 **The Open Source Audit – Apache HTTP Server**
 
 ---
 
-## 📖 Introduction
+  Introduction
 
 This project explores the philosophy, structure, and real-world impact of open source software through a detailed audit of the Apache HTTP Server. Alongside theoretical analysis, five Linux shell scripts have been developed to demonstrate practical understanding of system-level operations and automation.
 
@@ -22,7 +22,7 @@ The goal of this project is not only to understand how open source software work
 
 ---
 
-## 🧠 Chosen Software: Apache HTTP Server
+  Chosen Software: Apache HTTP Server
 
 The Apache HTTP Server is one of the most widely used open-source web servers in the world. It is developed and maintained by the Apache Software Foundation and is released under the Apache License 2.0.
 
@@ -30,7 +30,7 @@ It plays a critical role in powering websites and enabling open, decentralized a
 
 ---
 
-## ⚙️ Project Structure
+ Project Structure
 
 ```
 oss-audit-24BCY10119/
@@ -44,9 +44,9 @@ oss-audit-24BCY10119/
 
 ---
 
-## 🧾 Shell Scripts Overview
+## Shell Scripts Overview
 
-### 🔹 Script 1: System Identity Report
+###  Script 1: System Identity Report
 
 * Displays system information like:
 
@@ -62,7 +62,7 @@ oss-audit-24BCY10119/
 
 ---
 
-### 🔹 Script 2: FOSS Package Inspector
+###  Script 2: FOSS Package Inspector
 
 * Checks if Apache (or any package) is installed
 * Displays:
@@ -78,7 +78,7 @@ oss-audit-24BCY10119/
 
 ---
 
-### 🔹 Script 3: Disk and Permission Auditor
+###  Script 3: Disk and Permission Auditor
 
 * Analyzes key Linux directories
 * Shows:
@@ -93,7 +93,7 @@ oss-audit-24BCY10119/
 
 ---
 
-### 🔹 Script 4: Log File Analyzer
+###  Script 4: Log File Analyzer
 
 * Reads a log file and counts keyword occurrences
 * Default keyword: `error`
@@ -105,7 +105,7 @@ oss-audit-24BCY10119/
 
 ---
 
-### 🔹 Script 5: Open Source Manifesto Generator
+###  Script 5: Open Source Manifesto Generator
 
 * Takes user input and generates a personalized manifesto
 * Saves output in a `.txt` file
@@ -117,7 +117,7 @@ oss-audit-24BCY10119/
 
 ---
 
-## ▶️ How to Run the Scripts
+##  How to Run the Scripts
 
 ### Step 1: Give permission
 
@@ -137,7 +137,7 @@ chmod +x *.sh
 
 ---
 
-## 💻 Requirements
+##  Requirements
 
 * Linux Environment (Ubuntu recommended)
 * Bash Shell
@@ -146,7 +146,7 @@ chmod +x *.sh
 
 ---
 
-## 🌍 Open Source Philosophy
+##  Open Source Philosophy
 
 This project reflects the belief that software should be:
 
@@ -158,7 +158,7 @@ Open source empowers individuals to learn, modify, and contribute, fostering inn
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 Through this project, I explored both the technical and philosophical dimensions of open source software. The Apache HTTP Server stands as a powerful example of community-driven development and open collaboration.
 
@@ -166,7 +166,7 @@ This audit strengthened my understanding of Linux, shell scripting, and the broa
 
 ---
 
-## 🔗 Submission Details
+##  Submission Details
 
 * GitHub Repository: *(Add your repo link here)*
 * Project Report: Submitted separately as PDF
