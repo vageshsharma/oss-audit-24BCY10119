@@ -173,6 +173,6 @@ This audit strengthened my understanding of Linux, shell scripting, and the broa
 
 ---
 
-## ⭐ Acknowledgment
+##  Acknowledgment
 
 This project was completed as part of the Open Source Software course, emphasizing both practical skills and conceptual understanding of open-source systems.
